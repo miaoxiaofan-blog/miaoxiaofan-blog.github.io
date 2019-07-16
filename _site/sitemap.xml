@@ -5,35 +5,35 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     
     <url>
-        <loc>http://localhost:4000/%E5%8D%81%E5%85%AB%E5%B2%81%E7%9A%84%E5%99%A9%E6%A2%A6/</loc>
-        <lastmod>2019-07-16T11:20:50+08:00</lastmod>
+        <loc>https://miaoxiaofan-blog.github.io/%E5%8D%81%E5%85%AB%E5%B2%81%E7%9A%84%E5%99%A9%E6%A2%A6/</loc>
+        <lastmod>2019-07-16T11:51:27+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     <url>
-        <loc>http://localhost:4000/%E5%B0%8F%E5%8F%AF%E4%B9%90%E9%95%BF%E5%A4%A7%E4%BA%86/</loc>
-        <lastmod>2019-07-16T11:20:50+08:00</lastmod>
-        <changefreq>weekly</changefreq>
-    </url>
-    
-    
-    <url>
-        <loc>http://localhost:4000/archive/</loc>
-        <lastmod>2019-07-16T11:20:50+08:00</lastmod>
+        <loc>https://miaoxiaofan-blog.github.io/%E5%B0%8F%E5%8F%AF%E4%B9%90%E9%95%BF%E5%A4%A7%E4%BA%86/</loc>
+        <lastmod>2019-07-16T11:51:27+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/category/</loc>
-        <lastmod>2019-07-16T11:20:50+08:00</lastmod>
+        <loc>https://miaoxiaofan-blog.github.io/archive/</loc>
+        <lastmod>2019-07-16T11:51:27+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/tags/</loc>
-        <lastmod>2019-07-16T11:20:50+08:00</lastmod>
+        <loc>https://miaoxiaofan-blog.github.io/category/</loc>
+        <lastmod>2019-07-16T11:51:27+08:00</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    
+    <url>
+        <loc>https://miaoxiaofan-blog.github.io/tags/</loc>
+        <lastmod>2019-07-16T11:51:27+08:00</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     

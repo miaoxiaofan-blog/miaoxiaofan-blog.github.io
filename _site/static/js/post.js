@@ -28,10 +28,10 @@ function gitment() {
     var gitment = new Gitment({
         id: window.location.pathname,
         owner: 'miaoxiaofan-blog',
-        repo: 'blog',
+        repo: '',
         oauth: {
-            client_id: 'a6fb73b3e790e234bab8',
-            client_secret: 'cc10aaff53a03d05ab2ee002dbf401dd7627c7a3',
+            client_id: '',
+            client_secret: '',
         },
     });
     gitment.render('post-comment')
